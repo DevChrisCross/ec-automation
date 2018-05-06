@@ -14,7 +14,7 @@ public class DefinitionSteps {
 
     @Given("the Internal User is on ElavonConnect")
     public void givenTheInternalUserIsOnElavonConnect() {
-    	internalUser.is_on_splash_page();
+//    	internalUser.is_on_splash_page();
     }
     
     @Given("the Internal User signs in")
