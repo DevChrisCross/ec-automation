@@ -1,0 +1,6 @@
+com\elavon\ec_automation\pages\CustomerSearchPage.class
+com\elavon\ec_automation\DefinitionTestSuite.class
+com\elavon\ec_automation\steps\DefinitionSteps.class
+com\elavon\ec_automation\steps\serenity\InternalUserSteps.class
+com\elavon\ec_automation\pages\SplashPage.class
+com\elavon\ec_automation\pages\SignInPage.class
